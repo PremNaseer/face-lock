@@ -63,10 +63,4 @@ Responsibilities:
 • Validation of Claim submission and E2E claim process. 
 • Handled efficiently both testing and management activities while working in PWS.
 
-Corporate Experience:
 
-Organization Details 	Client Details 
-Duration	Organization Name 	Role	Client Information 
-Apr 2021 to till Present 	Trust IT Consultancy 	Testing Engineer	Eurowings Airline
-Dec 2019 to  Mar 2021	Sutherland Global Services	Subject Matter Expert	A Fortune 500 US Healthcare Giant.
-Oct 2015  to Dec 2019	Sutherland Global Services	Technical Associate	Microsoft product and service
