@@ -1,35 +1,30 @@
 Over All experience:
 Overall 6.8 years of experience in which 2.6 years in Software Quality Assurance Testing of Web, CRM application and Travel web Applications. Experience in all stages of the Software Development Life Cycle and QA Life Cycle and in all dimensions of Functionality, Usability & Reliability. 4.2 years experience in Techincal Associate. Experiend in installing and repairing software and applications, troubleshooting, and conducting regular tests and maintenance to ensure smooth workflow.
-• Overall, 6.8 years of experience in which 2.6 years of IT industry experience in Automation testing and and keen in learning new things and leverage my skills.
+â€¢ Overall, 6.8 years of experience in which 2.6 years of IT industry experience in Automation testing and and keen in learning new things and leverage my skills.
 experience and keen in learning new things and leverage my skills
 Automation
-• Experience in User Acceptance Testing and regression testing using Automated testing tool Selenium WebDriver.
-• 2.6 years of experience in creating test scripts using Selenium WebDriver with java.
-• Good knowledge in CRM application onboarding and Travel Web application Testing
-• Good experience in user acceptance testing.
-• Well versed in Test Planning, Test Case Design and Defect management.
-• Good knowledge in JIRA and defect management.
-• Good knowledge in TestNG and Cucumber frameworks.
-• Worked in Agile methodology 
+â€¢ Experience in User Acceptance Testing and regression testing using Automated testing tool Selenium WebDriver.
+â€¢ 2.6 years of experience in creating test scripts using Selenium WebDriver with java.
+â€¢ Good knowledge in CRM application onboarding and Travel Web application Testing
+â€¢ Good experience in user acceptance testing.
+â€¢ Well versed in Test Planning, Test Case Design and Defect management.
+â€¢ Good knowledge in JIRA and defect management.
+â€¢ Good knowledge in TestNG and Cucumber frameworks.
+â€¢ Worked in Agile methodology 
 4.2 years of experience Supporting Microsoft consumers for all Operating System related issues
 Joined as an Technical Associate and scaled up to Subject Matter Expert role (SME Role)
-• Root Cause Analysis (DSAT analysis) in identifying defects and coaching agents on the same.
-• Weekly coaching on CIF audits:
+â€¢ Root Cause Analysis (DSAT analysis) in identifying defects and coaching agents on the same.
+â€¢ Weekly coaching on CIF audits:
 ? Providing Insights/ideas during Calibration sessions
 ? Tracking & Monitoring Focus Group
-• Daily governance on driving Productivity (AHT, CSAT and Resolution Rate)
+â€¢ Daily governance on driving Productivity (AHT, CSAT and Resolution Rate)
 ? Driving Smart Help compliance
 
 Work Experience:
-• Trust IT consultancy (January 2021- Till present)
+â€¢ Trust IT consultancy (January 2021- Till present)
 Test engineer
-• Sutherland Global Services (October 2015- Mar 2021)
+â€¢ Sutherland Global Services (October 2015- Mar 2021)
 Level 2 Technical support engineer 
-
-
-
-
-Overall 6.8 years of experience in which 2.6 years in Software Quality Assurance Testing of Web, CRM application and Travel web Applications. Experience in all stages of the Software Development Life Cycle and QA Life Cycle and in all dimensions of Functionality, Usability & Reliability. 4.2 years experience in Techincal Associate. Experiend in installing and repairing software and applications, troubleshooting, and conducting regular tests and maintenance to ensure smooth workflow.
 
 
 Work Experience: 
@@ -41,17 +36,17 @@ Tools : Java,Selenium,Webdriver and Cucumber
 Description: To design and develop software which would automate the major airline operations through Eurowings Airways which serves a network of domestic and European destinations. The Major module is Flight,Check-In and Flight status. 
 
 Responsibilities: 
-• Test Design Based on the User case Specifications. 
-• Generating Test Scenarios, Test case documentation and test data collection. 
-• Modifying the Tests and Conducting Regression Testing. 
-• Reporting the Coverage status of test performed on the daily/weekly basis. 
-• Attended Project meetings and interacted with other team members in order to resolve the problems. 
-• Involved in ‘Module Test Plan’ Preparation and Requirements Streamlining. 
-• Involved in Automation Environment setup using Eclipse, Java, Selenium WebDriver jars and Cucumber. 
-• Used Cucumber frameworks for Automation scripting. 
-• Designed Test cases Using Selenium WebDriver. 
-• Execution of Tests and Reporting Defects using JIRA. 
-• Involved in Regression Testing using Selenium and Preparation of weekly and monthly status-reports
+â€¢ Test Design Based on the User case Specifications. 
+â€¢ Generating Test Scenarios, Test case documentation and test data collection. 
+â€¢ Modifying the Tests and Conducting Regression Testing. 
+â€¢ Reporting the Coverage status of test performed on the daily/weekly basis. 
+â€¢ Attended Project meetings and interacted with other team members in order to resolve the problems. 
+â€¢ Involved in â€˜Module Test Planâ€™ Preparation and Requirements Streamlining. 
+â€¢ Involved in Automation Environment setup using Eclipse, Java, Selenium WebDriver jars and Cucumber. 
+â€¢ Used Cucumber frameworks for Automation scripting. 
+â€¢ Designed Test cases Using Selenium WebDriver. 
+â€¢ Execution of Tests and Reporting Defects using JIRA. 
+â€¢ Involved in Regression Testing using Selenium and Preparation of weekly and monthly status-reports
 
 Project : Web portal Application 
 Client : Molina Healthcare 
@@ -60,13 +55,13 @@ Tools Used : MS SQL, HP ALM
 Description: Molina Healthcare is a Fortune 500, multi-state healthcare Organization. Web portal applications like Member portal, Provider Portal, POD and PWS are secure area that provides multiple services to Molina users from enrollment to Claim process. 
 
 Responsibilities: 
-• Analysis of Business Requirement Document and Functional Requirement Document 
-• Preparation of Test Scenarios, Test case and Test data 
-• Test Execution, Defect reporting and Tracking 
-• Participating in Daily status and defect triage calls 
-• Extensive Support for UAT team 
-• Validation of Claim submission and E2E claim process. 
-• Handled efficiently both testing and management activities while working in PWS.
+â€¢ Analysis of Business Requirement Document and Functional Requirement Document 
+â€¢ Preparation of Test Scenarios, Test case and Test data 
+â€¢ Test Execution, Defect reporting and Tracking 
+â€¢ Participating in Daily status and defect triage calls 
+â€¢ Extensive Support for UAT team 
+â€¢ Validation of Claim submission and E2E claim process. 
+â€¢ Handled efficiently both testing and management activities while working in PWS.
 
 Corporate Experience:
 
